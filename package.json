@@ -1,6 +1,6 @@
 {
   "name": "allex_basicprogramsdklib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AllexJS sdk lib that implements a basic program",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sdklibs/basicprogram.git"
+    "url": "git+https://github.com/allex-sdk-libs/basicprogram.git"
   },
   "dependencies": {
     "commander": "2.x",
@@ -24,7 +24,7 @@
   "author": "Andrija Petrovic <andrija.hers@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sdklibs/basicprogram/issues"
+    "url": "https://github.com/allex-sdk-libs/basicprogram/issues"
   },
-  "homepage": "https://github.com/sdklibs/basicprogram#readme"
+  "homepage": "https://github.com/allex-sdk-libs/basicprogram#readme"
 }
